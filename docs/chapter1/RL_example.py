@@ -1,7 +1,6 @@
 import gym
 import numpy as np
-
-
+print("test")
 class SimpleAgent:
     def __init__(self, env):
         pass
